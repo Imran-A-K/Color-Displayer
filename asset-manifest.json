@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Color-Displayer/static/css/main.6cb7e91b.css",
+    "main.js": "/Color-Displayer/static/js/main.654b3d04.js",
+    "index.html": "/Color-Displayer/index.html",
+    "main.6cb7e91b.css.map": "/Color-Displayer/static/css/main.6cb7e91b.css.map",
+    "main.654b3d04.js.map": "/Color-Displayer/static/js/main.654b3d04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cb7e91b.css",
+    "static/js/main.654b3d04.js"
+  ]
+}
